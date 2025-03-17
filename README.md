@@ -31,11 +31,11 @@ The dataset consists of customer service records, including complaints, resoluti
 ---
 
 ##  Objectives of the Analysis
-✅ Identify the most **common customer complaints** and their distribution.  
-✅ Understand **average resolution times** across different complaint categories.  
-✅ Analyze **customer satisfaction trends** and factors influencing ratings.  
-✅ Examine the **performance of customer support agents** based on response times and escalations.  
-✅ Use insights to suggest **process optimizations** and customer experience improvements.  
+- Identify the most **common customer complaints** and their distribution.  
+- Understand **average resolution times** across different complaint categories.  
+- Analyze **customer satisfaction trends** and factors influencing ratings.  
+- Examine the **performance of customer support agents** based on response times and escalations.  
+- Use insights to suggest **process optimizations** and customer experience improvements.  
 
 ---
 
@@ -55,36 +55,29 @@ The dataset consists of customer service records, including complaints, resoluti
 ---
 
 ##  Key Insights & Findings
-📌 **CSAT Score Distribution**
+**CSAT Score Distribution**
 - Majority of customers provided **moderate satisfaction ratings (3-5 stars)**.
 - Some customers rated support poorly due to **long response times and ineffective resolutions**.
 
-📌 **Issue Trends & Escalations**
+**Issue Trends & Escalations**
 - **Refund-related complaints** had the highest escalation rates, highlighting inefficiencies in return processing.
 - **Damaged product complaints** also had longer-than-average resolution times.
 
-📌 **Agent Performance & Resolution Times**
+**Agent Performance & Resolution Times**
 - Experienced agents resolved complaints **faster and more effectively**.
 - Certain shift timings (e.g., night shifts) had **higher resolution times**, indicating possible resource shortages.
 
-📌 **Complaint Resolution Trends Over Time**
+**Complaint Resolution Trends Over Time**
 - **Seasonal spikes** in complaints were observed during major sales events.
 - Resolution efficiency **fluctuated** across months, possibly due to workload variations.
 
 ---
 
 ##  Recommendations & Business Impact
-🚀 **AI Chatbots for First-Level Support:** Automate common inquiries to reduce agent workload and response times.  
-🚀 **Process Optimization for Refunds & Returns:** Improve coordination between support and finance teams to expedite resolutions.  
-🚀 **Real-Time Agent Performance Monitoring:** Implement dashboards tracking response times, escalations, and CSAT scores.  
-🚀 **Predictive Analytics for Support Demand:** Forecast peak complaint periods (e.g., festival sales) to allocate resources efficiently.  
-🚀 **Multi-Channel Support Strategy:** Strengthen **WhatsApp, social media, and mobile app support** for faster resolutions.  
+- **AI Chatbots for First-Level Support:** Automate common inquiries to reduce agent workload and response times.  
+- **Process Optimization for Refunds & Returns:** Improve coordination between support and finance teams to expedite resolutions.  
+- **Real-Time Agent Performance Monitoring:** Implement dashboards tracking response times, escalations, and CSAT scores.  
+- **Predictive Analytics for Support Demand:** Forecast peak complaint periods (e.g., festival sales) to allocate resources efficiently.  
+- **Multi-Channel Support Strategy:** Strengthen **WhatsApp, social media, and mobile app support** for faster resolutions.  
 
 By implementing these improvements, Flipkart can **reduce customer dissatisfaction, enhance operational efficiency, and build long-term customer loyalty**.
-
----
-
-##  Repository Structure
-📌 **`Flipkart_EDA.ipynb`** – Jupyter Notebook containing data analysis and visualizations.  
-📌 **`dataset.csv`** – Dataset used for the analysis.  
-📌 **`README.md`** – Project overview and documentation (this file).  
